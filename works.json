@@ -1,0 +1,30 @@
+[
+    {
+        "position": "Web and Database Administrator",
+        "company": "College of the Marshall Islands",
+        "address": "PO BOX 1258 College of the Marshall Islands",
+        "country": "Republic of the Marshall Islands",
+        "time": "2017"
+    },
+    {
+        "position": "Information Technology Officer I",
+        "company": "Governance Commission for GOCCs",
+        "address": "3F Citibank Center Paseo de Roxas Makati City",
+        "country": "Philippines",
+        "time": "2015"
+    },
+    {
+        "position": "Junior Software Engineer",
+        "company": "Amadeus Marketing Philippines",
+        "address": "36F LKG Tower Ayala Avenue Makati City",
+        "country": "Philippines",
+        "time": "2014"
+    },
+    {
+        "position": "Junior Software Engineer",
+        "company": "Entertainment Gateway Group",
+        "address": "3F Bloomingdale Bldg Salcedo Village Makati City",
+        "country": "Philippines",
+        "time": "2013"
+    }
+]

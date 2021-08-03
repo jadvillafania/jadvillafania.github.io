@@ -1,0 +1,81 @@
+{
+    "pSkills": [
+    {
+      "desc": "HTML/CSS",
+      "rate": 5
+    },
+
+    {
+      "desc": "JavaScript",
+      "rate": 5
+    },
+    {
+      "desc": "PHP",
+      "rate": 5
+    },
+    {
+      "desc": "SQL",
+      "rate": 4
+    },
+    {
+      "desc": "NoSQL",
+      "rate": 3
+    },
+    {
+      "desc": "C# Asp.NET",
+      "rate": 3
+    }
+  ],
+  "fSkills": [
+    {
+      "desc": "VueJS",
+      "rate": 5
+    },
+    {
+      "desc": "Vuetify",
+      "rate": 5
+    },
+    {
+      "desc": "Laravel",
+      "rate": 4
+    },
+    {
+      "desc": "NuxtJS",
+      "rate": 4
+    },
+    {
+      "desc": "Wordpress",
+      "rate": 4
+    },
+    {
+      "desc": "Firestore",
+      "rate": 3
+    }
+  ],
+  "oSkills": [
+    {
+      "desc": "Web Design",
+      "rate": 4
+    },
+    {
+      "desc": "UI/UX",
+      "rate": 4
+    },
+    {
+      "desc": "Graphic Design",
+      "rate": 4
+    },
+    {
+      "desc": "Branding",
+      "rate": 3
+    },
+    {
+      "desc": "Drumming",
+      "rate": 3
+    },
+    {
+      "desc": "Gaming",
+      "rate": 5
+    }
+  ]
+}
