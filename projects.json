@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "College of the Marshall Islands Website",
     "desc": "Main website for the College of the Marshall Islands.",
     "images": ["/cmi-edu-1.JPG", "/cmi-edu-2.JPG", "/cmi-edu-3.JPG"],
@@ -35,6 +36,12 @@
         "desc": "Pohnpei State, Department of Health and Social Services (On-site)"
       }
     ]
+  },
+  {
+    "name": "eCommerce Platform",
+    "desc": "An E-Commerce Platform similar to Amazon where multiple stores can sell products.",
+    "images": ["/ss-1.JPG", "/ss-2.JPG", "/ss-3.JPG", "/ss-4.JPG"],
+    "links": [{ "url": "http://140.238.206.68/", "desc": "eCommerce" }]
   },
   {
     "name": "CMI Alumni Tracer",
