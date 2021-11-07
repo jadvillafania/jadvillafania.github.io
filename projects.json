@@ -37,11 +37,11 @@
     ]
   },
   {
-    "name": "(Experimental) Offline-first PWA",
-    "desc": "This is a vertical slice of an offline-first PWA.",
-    "images": ["/demo-1.jpg", "/demo-2.jpg", "/demo-3.JPG"],
+    "name": "eCommerce Platform",
+    "desc": "An E-Commerce Platform similar to Amazon where multiple stores can sell products.",
+    "images": ["/ss-1.JPG", "/ss-2.JPG", "/ss-3.JPG", "/ss-4.JPG],
     "links": [
-      { "url": "https://demoapp-18baa.web.app/", "desc": "Car Ticketing" }
+      { "url": "http://140.238.206.68/", "desc": "eCommerce" }
     ]
   },
   {
